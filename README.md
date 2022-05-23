@@ -1,10 +1,10 @@
 # Swapify
-This was a group project in Hack Reactor. Personal responsible: Real Time Chat System
+This was a group project in Hack Reactor. As a team we built an Online Goods Swap website. My personal responsibility was to build a Real Time Chat System for the website.
 
 ![Screen Shot 2022-05-23 at 17 36 33](https://user-images.githubusercontent.com/64598363/169916304-f9133cad-09d7-4a95-9390-7cde998fc3f7.png)
 
 ### Chat System Front End
-* Designed and implemented a real time chat system that enables connection between buyers and sellers for an online goods swap website
+* Designed and implemented a real time chat system that enables connection between buyers and sellers
 * Built frontend of the chat system with React JS and Socket.IO library that ensures low-latency communication between client and server
 * Built a contacts list panel that displays all the buyers/sellers that the current user has chatted with
 * Built a chat panel that allows private and direct chat between users. Messages are colored and styled differently based on received or sent
